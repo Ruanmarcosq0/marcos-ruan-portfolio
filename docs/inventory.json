@@ -1,0 +1,607 @@
+[
+  {
+    "name": "brooklyn-pizzaria-votuporanga",
+    "id": "prj_EPfOXCjn4Du0j0WncSv0VxAyxjim",
+    "framework": "nextjs",
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1792472572682,
+    "updatedAt": 1792474198192,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_CfGZUnrg818TeTm1arDCbGjGmSGR",
+      "url": "brooklyn-pizzaria-votuporanga-6px5y1els-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1792474181325,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "brooklyn-pizzaria-votuporanga.vercel.app",
+      "brooklyn-pizzaria-votuporanga-ruanmarcos931-7603.vercel.app",
+      "brooklyn-pizzaria-votuporanga-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "deborabureiestetica",
+    "id": "prj_GnIGOWz49GpW5eYVTVYxTymGhfnT",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1792182830195,
+    "updatedAt": 1792228623046,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_5b2cBcQkUk4w9u8tdSL8Gd6j7qDQ",
+      "url": "deborabureiestetica-91hjs1gr0-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1792228618252,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "deborabureiestetica.vercel.app",
+      "deborabureiestetica-ruanmarcos931-7603.vercel.app",
+      "deborabureiestetica-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "village-concept-bar",
+    "id": "prj_gn0xV2hhSD695FoNsvn4Uo7mbDRF",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1791603226513,
+    "updatedAt": 1791635075382,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_Hgx1CTwNT81wCvJdiz1yeLgDnM8S",
+      "url": "village-concept-5a9wqi3gk-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1791635063464,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "village-concept-bar.vercel.app",
+      "village-concept-bar-ruanmarcos931-7603.vercel.app",
+      "village-concept-bar-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "ct-ariston-franca",
+    "id": "prj_fLVMi91yHGTpfzwpagYpAEGjPjPG",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1791408581578,
+    "updatedAt": 1791493928138,
+    "nodeVersion": "24.x",
+    "latestDeployment": {
+      "id": "dpl_DMsTmQy47GvB4U3TWoFohdFmifCS",
+      "url": "ct-ariston-franca-58h90a5i6-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1791493921423,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "ct-ariston-franca.vercel.app",
+      "ct-ariston-franca-ruanmarcos931-7603.vercel.app",
+      "ct-ariston-franca-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "gmloca-es",
+    "id": "prj_sdx5PlMW0NEFfevatizXwF5wvCrl",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1790885250447,
+    "updatedAt": 1790904986605,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_9qMEcLdTwmaEPUTYHFH8QZAfJzB1",
+      "url": "gmloca-fziqjqud1-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1790904979469,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "gmloca-es.vercel.app",
+      "gmloca-es-ruanmarcos931-7603.vercel.app",
+      "gmloca-es-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "jf-centroestetico",
+    "id": "prj_7gXwdwgO1oxwjkSQxPdeNHLBb8VI",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1790824528877,
+    "updatedAt": 1790826627382,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_5WatoVeUtkG9aSSEPtqFoMts72ht",
+      "url": "jf-centroestetico-bhfdy0y0b-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1790826623914,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "jf-centroestetico.vercel.app",
+      "jf-centroestetico-ruanmarcos931-7603.vercel.app",
+      "jf-centroestetico-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "scooter-moto-46",
+    "id": "prj_EiCiJrafUQllQUOGbbYnBDjf8zUQ",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1790630031607,
+    "updatedAt": 1790635524413,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_B4vuBqaJtFJ3t2CxZVLoD6UG6hwd",
+      "url": "scooter-moto-46-r6ojvgxfg-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1790635514945,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "scooter-moto-46.vercel.app",
+      "scooter-moto-46-ruanmarcos931-7603.vercel.app",
+      "scooter-moto-46-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "scooter-moto-46-8ila",
+    "id": "prj_vkx7wCYgYm9Fjgft41cNt3NuEdN4",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1790630521150,
+    "updatedAt": 1790635519781,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_6uegUoFyGKjDVPx58MVYKC5qEPMi",
+      "url": "scooter-moto-46-8ila-77vass80n-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1790635514942,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "scooter-moto-46-8ila.vercel.app",
+      "scooter-moto-46-8ila-ruanmarcos931-7603.vercel.app",
+      "scooter-moto-46-8ila-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "lucro-no-volante",
+    "id": "prj_dxTjUepYbhgeNJbpv3gsXFtUReeK",
+    "framework": "nextjs",
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1790296998618,
+    "updatedAt": 1790308450807,
+    "nodeVersion": "24.x",
+    "latestDeployment": {
+      "id": "dpl_5XaB1YgmCiZ5gwQ2x1Gcn2DaYoRv",
+      "url": "lucro-no-volante-2idby1xhx-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1790308381297,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "lucro-no-volante.vercel.app",
+      "lucro-no-volante-ruanmarcos931-7603.vercel.app",
+      "lucro-no-volante-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "julio-plantas",
+    "id": "prj_67cPpM3OFRxk8hyWjBLsIicrTQYx",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1790058689640,
+    "updatedAt": 1790059245866,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_BLjhbbXr8TZrAq8JjRszwV2AXKVN",
+      "url": "julio-plantas-idbri69sn-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1790059240985,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "julio-plantas.vercel.app",
+      "julio-plantas-ruanmarcos931-7603.vercel.app",
+      "julio-plantas-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "studio-blessed-site-cliente",
+    "id": "prj_AKQnlwHXOWstuvZvtx36f1Y3G5Xl",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1789703175082,
+    "updatedAt": 1789703179198,
+    "nodeVersion": "24.x",
+    "latestDeployment": {
+      "id": "dpl_9HWFZGpC4sjU1YbsX1SnnyC23EFL",
+      "url": "studio-blessed-site-cliente-pz94ln8uu-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1789703175373,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "studio-blessed-site-cliente.vercel.app",
+      "studio-blessed-site-cliente-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "studio-blessed-cliente",
+    "id": "prj_T6IWWAwpYqyCUnzH27rjvSPY88eo",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1789702292878,
+    "updatedAt": 1789702293745,
+    "nodeVersion": "24.x",
+    "latestDeployment": {
+      "id": "dpl_7UJfyfo68A2zd2wdgS7aUThkk2oM",
+      "url": "studio-blessed-cliente-mgo4f05bo-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1789702375766,
+      "readyState": "READY",
+      "target": null
+    },
+    "domains": [
+      "studio-blessed-cliente.vercel.app",
+      "studio-blessed-cliente-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "siteesteticanovaera-vercelapp",
+    "id": "prj_dgmSnvMmdt5B9d381aHcDEDQoS0p",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1789008563824,
+    "updatedAt": 1789598587676,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_rvij2TVNe7pYCSjrqibR1qhdB4wN",
+      "url": "siteesteticanovaera-vercelapp-i2waqt5n3-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1789598578519,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "siteesteticanovaera-vercelapp.vercel.app",
+      "siteesteticanovaera-vercelapp-ruanmarcos931-7603.vercel.app",
+      "siteesteticanovaera-vercelapp-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "siteesteticanovaera-xlib",
+    "id": "prj_Oe89AWJjwsmEo5Nk9VxYLZLOJ4TV",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1789010899605,
+    "updatedAt": 1789598584842,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_9Lk342KWQBVA2TNPJKcraLwzVuYf",
+      "url": "siteesteticanovaera-xlib-o10vy8bxj-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1789598578409,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "siteesteticanovaera-xlib.vercel.app",
+      "siteesteticanovaera-xlib-ruanmarcos931-7603.vercel.app",
+      "siteesteticanovaera-xlib-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "siteesteticanovaera-8i3r",
+    "id": "prj_ks9depb8X3yRY5xVrvFXICQFQ2qa",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1788998529162,
+    "updatedAt": 1789598582003,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_2RjYFAcuzXmDpPRMqZfRGAGBU8ey",
+      "url": "siteesteticanovaera-8i3r-eowt74lu7-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1789598578385,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "siteesteticanovaera-8i3r.vercel.app",
+      "siteesteticanovaera-8i3r-ruanmarcos931-7603.vercel.app",
+      "siteesteticanovaera-8i3r-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "siteesteticanovaera",
+    "id": "prj_8kXWB6BNWypaQdK75UN1ZsXhFGGT",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1788998190918,
+    "updatedAt": 1789598581577,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_CkGbQLXz2VmMnJMwHia1MEzhxdPD",
+      "url": "siteesteticanovaera-inoyy7ilk-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1789598578407,
+      "readyState": "READY",
+      "target": "production"
+    },
+    "domains": [
+      "siteesteticanovaera.vercel.app",
+      "siteesteticanovaera-ruanmarcos931-7603.vercel.app",
+      "siteesteticanovaera-git-main-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  },
+  {
+    "name": "estudio-nova-era",
+    "id": "prj_4JftgPnCYJrzrVt9RF2sP4dqVHGL",
+    "framework": null,
+    "accountId": "team_9VkhlxMNMZ5LheMSuzKx7Yk2",
+    "createdAt": 1789171291535,
+    "updatedAt": 1789597695921,
+    "nodeVersion": "24.x",
+    "live": false,
+    "latestDeployment": {
+      "id": "dpl_5b4CGtd1XgTqyLXFNFzUufByWEoc",
+      "url": "estudio-nova-1tfau78da-ruanmarcos931-7603.vercel.app",
+      "createdAt": 1789703156747,
+      "readyState": "READY",
+      "target": null
+    },
+    "domains": [
+      "estudio-nova-era.vercel.app",
+      "estudio-nova-era-ruanmarcos931-7603.vercel.app"
+    ],
+    "passwordProtection": {
+      "enabled": false,
+      "deploymentType": null
+    },
+    "ssoProtection": {
+      "enabled": true,
+      "deploymentType": "all_except_custom_domains"
+    },
+    "trustedIps": {
+      "enabled": false,
+      "deploymentType": null,
+      "addresses": [],
+      "protectionMode": null
+    }
+  }
+]

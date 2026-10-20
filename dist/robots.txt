@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcos-ruan-portfolio.vercel.app/sitemap.xml
