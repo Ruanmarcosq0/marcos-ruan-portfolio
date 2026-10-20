@@ -17,7 +17,7 @@ for(const m of h.matchAll(/(?:href|src)="([^"]+)"/g)){
  if(u.startsWith('https://wa.me/'))assert(u.startsWith('https://wa.me/'+profile.whatsapp+'?text='));
 }
 }}}
-await walk(root);assert.equal(projects.length,11);assert.equal(pages,14);
-const sitemap=await readFile('dist/sitemap.xml','utf8');assert.equal((sitemap.match(/<url>/g)||[]).length,13);
+await walk(root);assert.equal(projects.length,9);assert.equal(pages,projects.length+3);
+const sitemap=await readFile('dist/sitemap.xml','utf8');assert.equal((sitemap.match(/<url>/g)||[]).length,projects.length+2);
 assert((await readFile('dist/robots.txt','utf8')).includes(profile.url+'/sitemap.xml'));
-console.log(`PASS: ${pages} HTML pages; ${links} asset/link references; 11 cases; 13 sitemap URLs; JSON-LD; H1; WhatsApp destination.`);
+console.log(`PASS: ${pages} HTML pages; ${links} asset/link references; ${projects.length} cases; ${projects.length+2} sitemap URLs; JSON-LD; H1; WhatsApp destination.`);

@@ -9,7 +9,7 @@ Sites e landing pages com identidade, clareza de conteúdo e caminhos diretos pa
 
 ## Experiência
 
-Home com apresentação, filtros por nicho, seis cases principais, cinco projetos adicionais, serviços, posicionamento, benefícios, processo, diferenciais técnicos, stack, FAQ e orçamento via WhatsApp. Cada um dos 11 projetos tem página própria com contexto, desafio, solução, UX/UI, SEO, responsividade, performance e caminho para contato.
+Home com apresentação, filtros por nicho, seis cases principais, três projetos adicionais, serviços, posicionamento, benefícios, processo, diferenciais técnicos, stack, FAQ e orçamento via WhatsApp. Cada um dos 9 projetos tem página própria com contexto, desafio, solução, UX/UI, SEO, responsividade, performance e caminho para contato.
 
 Identidade editorial em preto e vermelho, com Manrope e DM Serif Display. A hero apresenta o autor com sua fotografia original, sem recompressão ou recorte permanente. Projetos em lista vertical, com imagens, títulos e botões que abrem diretamente os sites ao vivo; cada projeto mantém seu case.
 
@@ -64,7 +64,7 @@ Link de salto, controles com rótulos, foco visível, menu com estado expandido,
 
 ## Critério editorial
 
-17 projetos da Vercel foram inventariados em 20/10/2026. Foram consolidados em 11 trabalhos distintos. Versões alternativas de Scooter, Studio Blessed e Estúdio Nova Era constam na documentação. A versão `estudio-nova-era` é uma apresentação anterior da mesma marca; não foi contada como outro cliente.
+17 projetos da Vercel foram inventariados em 20/10/2026. Foram consolidados em 9 trabalhos distintos. Versões alternativas de Scooter, Studio Blessed e Estúdio Nova Era constam na documentação. A versão `estudio-nova-era` é uma apresentação anterior da mesma marca; não foi contada como outro cliente.
 
 “Publicado” descreve disponibilidade técnica. Não comprova venda, aprovação da marca ou relação contratual. Brooklyn e JF são identificados como prévias comerciais. A agenda do Village é histórica. Lucro no Volante é apresentado como interface; seus fluxos autenticados e de pagamento não foram auditados.
 
@@ -73,3 +73,7 @@ Não há depoimentos sobre Marcos, métricas de clientes, faturamento ou garanti
 ## Créditos e direitos
 
 Manrope e DM Serif Display: licenças SIL Open Font License incluídas em `docs/`. As capturas documentam projetos da conta do autor. Marcas e imagens de cada negócio pertencem a seus titulares. Sua presença é demonstrativa, sem declaração de endosso ou licença de revenda. Não há licença geral de reutilização de marcas, fotografias ou conteúdo de terceiros.
+
+## Curadoria atual
+
+Julio Plantas e Lucro no Volante foram retirados do portfólio por solicitação do autor. Os sites de origem não foram alterados. A seleção pública atual tem nove projetos. Os registros em docs/INVENTARIO.md documentam o levantamento histórico, não a seleção atual.
