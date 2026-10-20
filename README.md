@@ -11,7 +11,7 @@ Sites e landing pages com identidade, clareza de conteúdo e caminhos diretos pa
 
 Home com apresentação, filtros por nicho, seis cases principais, cinco projetos adicionais, serviços, posicionamento, benefícios, processo, diferenciais técnicos, stack, FAQ e orçamento via WhatsApp. Cada um dos 11 projetos tem página própria com contexto, desafio, solução, UX/UI, SEO, responsividade, performance e caminho para contato.
 
-Identidade editorial original: branco quente, verde profundo, acento lima, Manrope e DM Serif Display. O monograma evita inventar uma fotografia do autor. Capturas autênticas dos sites publicados, sem mockups apresentados como trabalhos reais.
+Identidade editorial em preto e vermelho, com Manrope e DM Serif Display. A hero apresenta o autor com sua fotografia original, sem recompressão ou recorte permanente. Projetos em lista vertical, com imagens, títulos e botões que abrem diretamente os sites ao vivo; cada projeto mantém seu case.
 
 ## Executar
 

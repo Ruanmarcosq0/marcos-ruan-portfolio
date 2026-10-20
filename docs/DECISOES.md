@@ -2,13 +2,13 @@
 
 ## Proposta comercial
 
-“Seu negócio merece um site à altura.” O argumento conecta identidade visual, explicação da oferta e facilidade de contato. O visitante pode conferir a execução nos sites antes de iniciar uma conversa. A proposta evita escassez falsa, superlativos sem prova e garantias de venda ou posição no Google.
+“Sou Marcos Ruan. Crio sites que valorizam negócios.” A apresentação conecta o autor, seu trabalho e o valor de uma presença digital organizada. O visitante pode conferir a execução nos sites antes de iniciar uma conversa. A proposta evita escassez falsa, superlativos sem prova e garantias de venda ou posição no Google.
 
 ## Design
 
-Base #f5f5ef, texto #1e2c26, verde #153b32 e acento #dbed94. Manrope na interface e DM Serif Display italic como ênfase editorial. Fotografias são capturas dos próprios projetos, armazenadas localmente. O monograma “mr.” funciona como assinatura visual sem supor logo pré-existente ou fotografia não fornecida.
+Base #0c0c0f, texto #f4f1f2, vermelho #c62636 e acento #ff616d. Manrope na interface e DM Serif Display italic como ênfase editorial. A fotografia pessoal foi fornecida pelo autor e preservada no arquivo original. O monograma “mr.” continua como assinatura visual. As capturas dos projetos são armazenadas localmente.
 
-O destaque principal combina estética e gastronomia; a grade mostra também artes marciais, B2B e beleza. Os filtros permitem explorar por segmento. As páginas individuais adicionam contexto sem transformar a home em um relatório técnico extenso.
+A hero apresenta Marcos e sua fotografia. Os projetos seguem uma lista vertical, um abaixo do outro, com acesso ao site ao vivo pela imagem, pelo título e pelo botão. Os filtros permitem explorar por segmento. As páginas individuais adicionam contexto e continuam acessíveis por uma ação secundária.
 
 ## Arquitetura
 
